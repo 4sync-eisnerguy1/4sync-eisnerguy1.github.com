@@ -1,7 +1,7 @@
     {  
       "version": "1.0",  
       "name": "4Sync",  
-      "description": "4Sync", 
+      "description": "4sync - free online syncing tool. Sync & sharing access with cloud storage. Synchronization files.", 
       "icons": {  
         "16": "/icon-16.png",
         "32": "/icon-32.png",  
